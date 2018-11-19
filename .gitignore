@@ -36,6 +36,7 @@ src/wayland-pointer-constraints-unstable-v1-client-protocol.h
 src/wayland-pointer-constraints-unstable-v1-protocol.c
 src/wayland-relative-pointer-unstable-v1-client-protocol.h
 src/wayland-relative-pointer-unstable-v1-protocol.c
+build
 
 # Compiled binaries
 src/libglfw.so
